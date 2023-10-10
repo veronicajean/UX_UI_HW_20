@@ -1,0 +1,19 @@
+.test {
+  border: 2px solid red;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.hero {
+  background: linear-gradient(to bottom, #f67e7d 0%, #fee9e1 100%);
+}
+.grayBackground {
+  background-color: #f6f6f6;
+}
+.padding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
